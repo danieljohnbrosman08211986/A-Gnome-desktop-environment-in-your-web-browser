@@ -1,0 +1,4 @@
+GNOME PPA repository sudo add-apt-repository ppa:gnome3-team/gnome3
+Hit Enter. When prompted, hit Enter again.
+Update and install with this command: sudo apt-get update && sudo apt-get install gnome-shell ubuntu-gnome-desktop
+Alternatively, you can install GNOME desktop environment terminal by opening up a terminal window and issuing the command: sudo apt-get install ubuntu-gnome-desktop
